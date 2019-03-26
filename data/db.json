@@ -1,0 +1,30 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "display_name": "Elcs",
+      "description": "things that use power",
+      "id": 1
+    },
+    {
+      "name": "Food",
+      "display_name": "food",
+      "description": "yummy noms",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "BlueRay",
+      "category": "electronics",
+      "price": 99
+    },
+    {
+      "name": "VCR",
+      "category": "electronics",
+      "price": 399,
+      "id": 2
+    }
+  ]
+}
